@@ -1,4 +1,4 @@
-# English
+# Document
 This is a Magisk module to delete the leak of IMEI, MEID, UUID and FP.UID in some devices' props.
 
 ## How to use
@@ -14,7 +14,7 @@ This is a Magisk module to delete the leak of IMEI, MEID, UUID and FP.UID in som
 　　[Source code](https://t.me/CodeOfMeowCat/255710)
 
 
-# 中文
+# 文档
 这是一个 Magisk 模块，用来删除部分设备的 prop 泄漏的 IMEI、MEID、UUID 和 FP.UID。
 
 ## 如何使用
