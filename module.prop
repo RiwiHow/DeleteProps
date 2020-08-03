@@ -3,4 +3,4 @@ name=DeleteProps
 version=v1
 versionCode=1
 author=RiwiHow
-description=This is a Magisk module to delete the leak of IMEI, MEID, UUID and FP.UID in some devices' props.
+description=A Magisk module to delete the leak of IMEI, MEID, UUID and FP.UID in some devices' props.
