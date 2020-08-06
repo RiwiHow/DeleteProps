@@ -3,7 +3,7 @@
 ## 如何使用？
 在 Magisk Manager 中安装即可。
 
-如果您想在更早的时间删除，您可以把 `"$(getprop sys.boot_completed)" != "1"` 替换成别的。比如 `"$(getprop gsm.sim.operator.iso-country)" != "cn"`。
+**如果您想在更早的时间删除，您可以把 `"$(getprop sys.boot_completed)" != "1"` 替换成别的。比如 `"$(getprop gsm.sim.operator.iso-country)" != "cn"`。**
 ## 我的设备是否有泄漏？
 使用终端软件（例如 Termux）运行 `getprop | grep imei` 检查输出结果。
 ## 它是如何工作的？
