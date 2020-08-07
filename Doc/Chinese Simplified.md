@@ -10,4 +10,5 @@
 借助 Magisk 提供的工具 `resetprop`
 ## 感谢
 [Magisk](https://github.com/topjohnwu/Magisk)
+
 [源码](https://t.me/CodeOfMeowCat/255710)
