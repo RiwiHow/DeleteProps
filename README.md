@@ -1,4 +1,4 @@
-# Document
+# DeleteProps
 [简体中文](https://github.com/RiwiHow/DeleteProps/blob/master/Doc/Chinese%20Simplified.md)
 
 This is a Magisk module to delete the leaks of IMEI, MEID, UUID and FP.UID in some devices' props.

@@ -1,4 +1,4 @@
-# 文档
+# DeleteProps
 这是一个 Magisk 模块，用来删除部分设备的 prop 泄漏的 IMEI、MEID、UUID 和 FP.UID。
 ## 如何使用？
 在 Magisk Manager 中安装即可。
