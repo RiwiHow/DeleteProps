@@ -1,5 +1,5 @@
 # Document
-[中文文档](https://github.com/RiwiHow/DeleteProps/blob/master/Doc/Chinese%20Simplified.md)
+[简体中文](https://github.com/RiwiHow/DeleteProps/blob/master/Doc/Chinese%20Simplified.md)
 
 This is a Magisk module to delete the leaks of IMEI, MEID, UUID and FP.UID in some devices' props.
 ## How to use?
@@ -11,6 +11,6 @@ Use terminal application (such as Termux) run `getprop | grep imei` then check t
 ## How it works?
 Use `resetprop` powered by Magisk
 ## Credits
-[Magisk](https://github.com/topjohnwu/Magisk)
+* [Magisk](https://github.com/topjohnwu/Magisk)
 
-[Source code](https://t.me/CodeOfMeowCat/255710)
+* [Source code](https://t.me/CodeOfMeowCat/255710)
